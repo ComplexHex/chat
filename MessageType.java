@@ -1,4 +1,4 @@
 package com.javarush.task.task30.task3008;
 
-public class MessageType {
+public enum MessageType {
 }
